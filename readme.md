@@ -19,7 +19,7 @@ FluxionUI is a lightweight Roblox UI library designed for executor scripts (e.g.
 Load the UI library directly from GitHub and start creating your UI:
 
 ```lua
-local FluxionUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/YourRepo/main/FluxionUI.lua"))()
+local FluxionUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/YourRepo/main/FluxionUI.lu"))()
 
 FluxionUI:CreateWindow("My Executor UI")
 FluxionUI:CreateTab("Main")
